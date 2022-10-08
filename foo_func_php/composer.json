@@ -1,0 +1,12 @@
+{
+    "name": "azdanov/foo_func_php",
+    "require": {
+        "bref/bref": "^1.7"
+    },
+    "authors": [
+        {
+            "name": "Anton Ždanov",
+            "email": "anton@azdanov.dev"
+        }
+    ]
+}
